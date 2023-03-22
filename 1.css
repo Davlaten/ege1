@@ -1,0 +1,152 @@
+body{
+    background-color: lightyellow;
+    margin: 10px;
+    position: relative;
+    background-image:url("https://damion.club/uploads/posts/2022-09/1663895726_54-damion-club-p-fon-voennaya-tematika-krasivo-55.jpg");
+}
+
+header{
+    width: 1000px;
+    height: 120px;
+    margin: 0 auto ;
+    text-align: center;
+    background-color: green;
+}
+header a{
+    margin: 10px;
+}
+#q1{
+    width: 600px;
+    height: 600px;
+    background-color:lawngreen;
+    border: 1px solid black;
+    margin: 10px;
+
+
+}
+.s1{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 10px;
+    left: 600px;
+    top: 120px;
+    background-color: lawngreen;
+    border: 1px solid black;
+
+}
+.s2{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 10px;
+    left: 600px;
+    top: 420px;
+    background-color: lawngreen;
+    border: 1px solid black;
+
+}
+footer{
+    width: 1000px;
+    height: 120px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: greenyellow;
+}
+.img1{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 5px;
+    text-align: center;
+
+}
+.t1{
+    text-align: justify;
+    padding: 5px;
+
+}
+.img2{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 5px;
+}
+.t2{
+    text-align: justify;
+    padding: 5px;
+
+}
+.t3{
+    text-align: justify;
+    padding: 5px;
+}
+.t4{
+    text-align: justify;
+    padding: 5px;
+}
+.img3{
+    width: 150px;
+    height: 150px;
+    float:left;
+    margin: 5px;
+}
+.img4{
+    width: 150px;
+    height: 150px;
+    float:left;
+    margin: 5px;
+}
+.img5{
+    width: 100px;
+    height: 100px;
+    border: 2px solid darkred;
+}
+.a1{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 14px 20px;
+    border: 2px solid blue;
+    transition: background-color 2s ease 0s,font-size 1s ease 0s;
+}
+.a1:hover{
+    background-color: navy;
+    font-size: 25px;
+}
+.a2{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 14px 20px;
+    border: 2px solid blue;
+    transition: background-color 2s ease 0s,font-size 1s ease 0s;
+}
+.a2:hover{
+    background-color: coral;
+    font-size: 25px;
+}
+.a3{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 14px 20px;
+    border: 2px solid blue;
+    transition: background-color 2s ease 0s,font-size 1s ease 0s;
+}
+.a3:hover{
+    background-color: yellowgreen;
+    font-size: 25px;
+}
+.a4{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 14px 20px;
+    border: 2px solid blue;
+    transition: background-color 2s ease 0s,font-size 1s ease 0s;
+}
+.a4:hover{
+    background-color: greenyellow;
+    font-size: 25px;
+}
